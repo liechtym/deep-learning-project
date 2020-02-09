@@ -1,4 +1,4 @@
-# Deep Learning Class Project
+# Deep Scene Extension Project
 
 *Posted with permission from instructor.*
 
